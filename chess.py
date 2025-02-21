@@ -52,3 +52,4 @@ while y > -1 and x > -1:
 ferz = plt.Circle((x1, y1), 0.35, edgecolor="black", facecolor="yellow")
 ax.add_patch(ferz)
 plt.show()
+L
